@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>滨江道上</title>
+  
+  <subtitle>时间只是我垂钓的溪</subtitle>
+  <link href="https://github.com/binjiangdao/binjiangdao.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/binjiangdao/binjiangdao.github.io/"/>
+  <updated>2021-01-31T12:17:13.024Z</updated>
+  <id>https://github.com/binjiangdao/binjiangdao.github.io/</id>
+  
+  <author>
+    <name>Bao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="https://github.com/binjiangdao/binjiangdao.github.io/2021/01/29/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://github.com/binjiangdao/binjiangdao.github.io/2021/01/29/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <published>2021-01-29T10:17:45.000Z</published>
+    <updated>2021-01-31T12:17:13.024Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="markdown语法"><a href="#markdown语法" class="headerlink" title="markdown语法"></a>markdown语法</h2><p>###标题<br>使用’#’表示1-6级标题</p><p>###分段<br>直接回车表示换行</p><p>###字体<br><em>斜体</em><br><em>斜体文字</em><br><strong>粗体文字</strong><br><strong>粗体文字</strong><br><strong><em>粗斜体文字</em></strong><br><strong><em>粗斜体文字</em></strong></p><p>###分割线<br>一行中使用三个以上的星号、减号、下划线建立分割线，行内可以有空格，但不可以有其他东西。<br>如 ***</p><hr><p>###删除线<br>文字两端加上两个波浪线~~即可</p><p>###下划线<br>通过HTML中的<U>标签实现<br>如：<u>下划线</u></p><p>###脚注线<br>如：[^注明文字]</p><p>###无序列表<br>使用*、+、-作为列表标记</p><p>###列表嵌套<br>子列表添加四个空格</p><ol><li>第一项：<ul><li>第一项嵌套的第一个元素</li><li>第一项嵌套的第二个元素</li></ul></li><li>第二项：<ul><li><p>第二项嵌套的第一个元素</p></li><li><p>第二项嵌套的第二个元素</p><p>###区块</p></li></ul></li></ol><p><a href="http://www.bilibili.com/">bilibili</a><br><img src="http://static.runoob.com/images/runoob-logo.png" alt="RUNOOB 图标">|</p><table><thead><tr><th align="right">鳌头</th><th align="left">表头</th></tr></thead><tbody><tr><td align="right">4</td><td align="left">3</td></tr></tbody></table><p><code>printf()</code>函数</p><pre><code>&lt;`phpjkdskdsksdaldsakk</code></pre><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hello world</span><br></pre></td></tr></table></figure><blockquote><p>区块</p><blockquote><p>区块1</p><ol><li>jhj</li></ol><ul><li>ii</li></ul></blockquote></blockquote><hr><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;markdown语法&quot;&gt;&lt;a href=&quot;#markdown语法&quot; class=&quot;headerlink&quot; title=&quot;markdown语法&quot;&gt;&lt;/a&gt;markdown语法&lt;/h2&gt;&lt;p&gt;###标题&lt;br&gt;使用’#’表示1-6级标题&lt;/p&gt;
+&lt;p&gt;###分段&lt;br</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://github.com/binjiangdao/binjiangdao.github.io/2021/01/29/hello-world/"/>
+    <id>https://github.com/binjiangdao/binjiangdao.github.io/2021/01/29/hello-world/</id>
+    <published>2021-01-29T09:54:52.911Z</published>
+    <updated>2021-01-29T09:54:52.911Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
